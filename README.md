@@ -1,3 +1,17 @@
+# Landing Page do Pet Shop - Desenvolvida com Tailwind CSS e Next.js
+
+Esta landing page foi criada para promover o Pet Shop especializado no cuidado e bem-estar dos pets. Utilizando Next.js para garantir uma navegação rápida e responsiva, e Tailwind CSS para um design moderno e flexível, a página oferece uma experiência visual agradável e fácil de navegar.
+
+# Imagens do projeto:
+
+![petshop1](https://github.com/user-attachments/assets/c2de0aa5-6c9f-4346-ae37-544940bfa932)
+
+![petshop2](https://github.com/user-attachments/assets/4484a093-5927-4f6e-9d6a-ef76465ae794)
+
+![petshop3](https://github.com/user-attachments/assets/9e8f8b66-06ea-430f-8240-3f0b156df794)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
